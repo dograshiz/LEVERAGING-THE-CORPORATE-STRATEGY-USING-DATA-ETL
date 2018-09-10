@@ -1,0 +1,2 @@
+# LEVERAGING-THE-CORPORATE-STRATEGY-USING-DATA-ETL
+The project deals with the presentation of the news which aims on OIL and Petroleum. The news feeds that are obtained are updated and changes every day accordingly. The project is thus implemented in the employee interest section where they are updated with the news feed.    TECHNOLOGIES USED: ETL, MongoDB, JSON, Python, Scrapy, Web Crawlers, Jupyter Notebook 
